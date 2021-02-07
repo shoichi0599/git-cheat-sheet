@@ -1,5 +1,10 @@
 # git-cheat-sheet
 
+## Table of contetns
+   * [git-cheat-sheet](#git-cheat-sheet)
+      * [Creating a new repository](#creating-a-new-repository)
+      * [Pushing an existing repository](#pushing-an-existing-repository)
+
 ## Creating a new repository
 ```bash
 echo "# {REPOSITORY_NAME}" >> README.md
