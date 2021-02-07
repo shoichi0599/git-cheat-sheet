@@ -1,6 +1,7 @@
 # git-cheat-sheet
 
-## Table of contetns
+Table of Contents
+=================
    * [git-cheat-sheet](#git-cheat-sheet)
       * [Creating a new repository](#creating-a-new-repository)
       * [Pushing an existing repository](#pushing-an-existing-repository)
