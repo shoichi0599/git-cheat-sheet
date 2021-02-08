@@ -3,9 +3,11 @@ A cheat sheet for `git` commands (+ `gh-md-toc` command)
 
 ## Table of Contents
    * [git-cheat-sheet](#git-cheat-sheet)
-      * [Creating a new repository](#creating-a-new-repository)
-      * [Pushing an existing repository](#pushing-an-existing-repository)
-      * [gh-md-toc command for table of contets creation](#gh-md-toc-command-for-table-of-contets-creation)
+      * [git commands](#git-commands)
+         * [Creating a new repository](#creating-a-new-repository)
+         * [Pushing an existing repository](#pushing-an-existing-repository)
+      * [gh-md-toc command](#gh-md-toc-command)
+         * [Creating a table of contets](#creating-a-table-of-contets)
 
 ## `git` commands
 ### Creating a new repository
