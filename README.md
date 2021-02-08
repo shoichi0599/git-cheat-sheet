@@ -5,6 +5,18 @@
       * [Creating a new repository](#creating-a-new-repository)
       * [Pushing an existing repository](#pushing-an-existing-repository)
 
+## `gh-md-toc` command for table of contets creation
+```bash
+{INSTALLED_PATH}/gh-md-toc README.md
+# Output example
+#---------------------------------------
+# Table of Contents
+# =================
+#   * [git-cheat-sheet](#git-cheat-sheet)
+#      * [Creating a new repository](#creating-a-new-repository)
+#      * [Pushing an existing repository](#pushing-an-existing-repository)
+```
+
 ## Creating a new repository
 ```bash
 echo "# {REPOSITORY_NAME}" >> README.md
